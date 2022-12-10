@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a1a6f493e7a2d3",
+        "id": "94812b9d53f6d02b",
         "type": "tabs",
         "children": [
           {
-            "id": "eb084525fcc1c50d",
+            "id": "13dd02d0168733c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JSreport.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSreport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSreport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JSreport.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb084525fcc1c50d",
-  "lastOpenFiles": []
+  "active": "13dd02d0168733c5",
+  "lastOpenFiles": [
+    "JSreport.md"
+  ]
 }
