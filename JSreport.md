@@ -54,7 +54,7 @@ router.get('/printPDF', async function (req, res, next) {});
 	engine: 'handlebars',
 	recipe: 'chrome-pdf',
  }, 
- "data" : { ... }, # here we can provide camapign data
+ "data" : { ... }, // here we can provide camapign data
  "options": { "reports": { "save": true } } 
  }
 ```
