@@ -47,7 +47,7 @@ router.get('/printPDF', async function (req, res, next) {});
 - render a pdf 
 	- Inorder to render a pdf  we use `jsreport.render` function
 	- it takes a object as a argument
-```json
+```js
 { 
  "template": { 
 	content: template, // here we can provide camapign pdf template
