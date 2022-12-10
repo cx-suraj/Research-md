@@ -1,7 +1,5 @@
 # Using JSReport with more than 5 templates in node server 
 
-## Using JSReport with more than 5 templates in Node server  
-
 In your express app install following packages
 
 ```
