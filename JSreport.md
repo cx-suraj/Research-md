@@ -50,7 +50,7 @@ router.get('/printPDF', async function (req, res, next) {});
 ```json
 { 
  "template": { 
-	content: template, # here we can provide camapign pdf template
+	content: template, // here we can provide camapign pdf template
 	engine: 'handlebars',
 	recipe: 'chrome-pdf',
  }, 
