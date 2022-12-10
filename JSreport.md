@@ -15,9 +15,10 @@ npm i jsreport-core jsreport-handlebars puppeteer jsreport-chrome-pdf
 
 # Implement [jsreport](https://github.com/jsreport/jsreport/tree/master/packages/jsreport-core) in express app
 
-- Create a API entry point in your express app
-		`app.use('/campaign', campaign);`
-		
+- Create a API entry point in your express app   
+```js
+app.use('/campaign', campaign);
+```
 - In your route file import packages
 ```js
 const express = require('express');
