@@ -81,5 +81,13 @@ router.get('/new', async function (req, res, next) {
 		}
 })
 ```
+## Important references
+[header and footer](https://jsreport.net/learn/chrome-pdf)
+[header and footer](https://forum.jsreport.net/topic/694/display-header-footer-showing-improper/2)
+[more than 5 template](https://medium.com/@nitheesh.s.k1710/using-jsreport-with-more-than-5-templates-in-node-server-52bb16025e6f)
+[ youtube video demo in express js](https://youtu.be/11ZStDn87pk)
+
+
+
 
 
